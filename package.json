@@ -1,0 +1,26 @@
+{
+  "name": "js-fetch-characters",
+  "version": "1.0.0",
+  "description": "Get random characters names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitry9/fetch-characters.git"
+  },
+  "keywords": [
+    "random",
+    "characters"
+  ],
+  "author": "Dmitry A. Karpov <karpov.dmitry80@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dmitry9/fetch-characters/issues"
+  },
+  "homepage": "https://github.com/Dmitry9/fetch-characters#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
